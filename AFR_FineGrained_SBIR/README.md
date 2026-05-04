@@ -57,6 +57,6 @@ title = {AFR-SBIR: Adaptive Frequency Reasoning for Fine-Grained Sketch-Based Im
 
 author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
 
-journal = {.....}, year = {2026} }
+journal = {international journal of machine learning and cybernetics}, year = {2026} }
 
 Contact: almohmdy30@gmail.com GitHub: https://github.com/mohammedalmohmdy
